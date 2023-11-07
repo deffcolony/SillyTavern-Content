@@ -86,6 +86,11 @@
   },
   {
     "type": "bgm",
+    "id": "calm-bittersweet.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/calm-bittersweet.ogg"
+  },
+  {
+    "type": "bgm",
     "id": "cup-of-cohee.ogg",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/cup-of-cohee.ogg"
   },
@@ -103,6 +108,11 @@
     "type": "bgm",
     "id": "sad_ambience_2.ogg",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_2.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "melancholy-bittersweet.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/melancholy-bittersweet.ogg"
   },
   {
     "type": "bgm",
